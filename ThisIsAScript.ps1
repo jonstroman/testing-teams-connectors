@@ -1,1 +1,3 @@
 # Told you...
+
+Write-Host 'Apparently I have to name the commit every dang time.... gah'
